@@ -1,0 +1,19 @@
+.par {
+    background-color: rgb(250, 171, 171);
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+}
+
+#one {
+    color: rgb(19, 19, 180);
+    font-size: 36px;
+}
+
+.second {
+    font-size: 24px;
+}
+
+#second {
+    background-color: rgb(130, 228, 130);
+    font-size: 36px;
+    font-weight: bold;
+}
